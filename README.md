@@ -1,0 +1,2 @@
+- 👋 Hi, I’m hairuo, MSc student at Imperial College
+- 👀 I’m interested in exploring the fascinating field of quantum computing and quantum information
